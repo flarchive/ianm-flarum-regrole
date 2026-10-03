@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of ianm/flarum-regrole.** Not for installation: use [Packagist](https://packagist.org/packages/ianm/flarum-regrole) or the [upstream repository](https://github.com/imorland/flarum-regrole).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/ianm-flarum-regrole/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0.0`
+**3** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/ianm-flarum-regrole/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-01-04 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/ianm-flarum-regrole/tree/archive/v0.1.0) |
+| `0.1.1` | 2021-03-28 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/ianm-flarum-regrole/tree/archive/v0.1.1) |
+| `1.0.0` | 2021-06-03 | `^1.0.0` | [Browse](https://github.com/flarchive/ianm-flarum-regrole/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/ianm-flarum-regrole.json](https://github.com/flarchive/archive-index/blob/main/packages/ianm-flarum-regrole.json)
 
